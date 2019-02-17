@@ -1,0 +1,44 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    padding: 5%;
+    margin-right: 50%;
+}
+
+h1 {
+    font-family: 'EB Garamond', serif;
+    font-size: 350%;
+}
+
+#mission_statement {
+    font-size: 130%;
+    margin-top: -2%;
+}
+
+.partner {
+    margin-top: 1%;
+}
+.partner > .name{
+    margin: 2%;
+    margin-left: 0;
+    margin-bottom: 1%;
+    color: lightpink;
+
+    font-weight: bold;
+    font-size: 120%;
+}
+.partner_info {
+    padding: 1%;
+    border-left: 3px black solid;
+    margin-right: 0;
+}
+
+.contact {
+    font-size: 120%;
+}
+
+.description_short {
+    padding: 2%;
+}
+
+.description_long {
+}
