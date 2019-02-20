@@ -1,17 +1,50 @@
 body {
     font-family: 'Oswald', sans-serif;
     padding: 5%;
-    margin-right: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
 h1 {
     font-family: 'EB Garamond', serif;
-    font-size: 350%;
+    font-size: 400%;
 }
 
 #mission_statement {
     font-size: 130%;
     margin-top: -2%;
+}
+
+#landing {
+}
+
+#landing > .nav_bar {
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+
+#landing > .nav_bar > a {
+    font-size: 150%;
+    border-bottom: 4px solid black;
+    padding-right: 4%;
+    margin-right: 2%;
+    text-decoration: none;
+}
+
+a:link {
+    color: #7399d6;
+}
+
+a:visited {
+    color: #29374f;
+}
+
+a:hover {
+    color: #29374f;
+}
+
+a:active {
+    color: #29374f;
 }
 
 .partner {
@@ -28,7 +61,7 @@ h1 {
 }
 .partner_info {
     padding: 1%;
-    border-left: 3px black solid;
+    border-left: 4px black solid;
     margin-right: 0;
 }
 
@@ -41,4 +74,10 @@ h1 {
 }
 
 .description_long {
+}
+
+.partners {
+}
+
+.work_with_us {
 }
